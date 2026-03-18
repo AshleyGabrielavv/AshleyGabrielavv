@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎀 IMAGEN DE BANNER COMPLETO — cubre todo el ancho 🎀 -->
-<img src="1773866083803_image.png" width="100%" alt="Ashley Velasques Banner"/>
+<img src="fot_asly.png" width="100%" alt="Ashley Velasques Banner"/>
 
 <br/>
 
