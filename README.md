@@ -6,7 +6,7 @@
 <!-- ║  nombre del archivo abajo             ║ -->
 <!-- ╚════════════════════════════════════════╝ -->
 
-<img src="TU_IMAGEN.png" width="200px" style="border-radius: 50%; border: 4px solid #ffc8dd;"/>
+<img src="fot_asly.png" width="200px" style="border-radius: 50%; border: 4px solid #ffc8dd;"/>
 
 <br/>
 
