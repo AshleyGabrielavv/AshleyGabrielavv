@@ -72,13 +72,13 @@ Me encanta combinar **creatividad con lógica** para desarrollar sistemas modern
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&bg_color=fff0f6&title_color=c9184a&text_color=6b2737&icon_color=ff85a1&border_color=ffc8dd&border_radius=15&hide_border=false" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AshleyGabrielavv&show_icons=true&bg_color=fff0f6&title_color=c9184a&text_color=6b2737&icon_color=ff85a1&border_color=ffc8dd&border_radius=15&hide_border=false" height="160"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&bg_color=fff0f6&title_color=c9184a&text_color=6b2737&border_color=ffc8dd&border_radius=15" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshleyGabrielavv&layout=compact&bg_color=fff0f6&title_color=c9184a&text_color=6b2737&border_color=ffc8dd&border_radius=15" height="160"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&background=fff0f6&border=ffc8dd&stroke=ffc8dd&ring=ff85a1&fire=c9184a&currStreakNum=c9184a&sideNums=6b2737&currStreakLabel=ff85a1&sideLabels=ff85a1&dates=6b2737&border_radius=15"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AshleyGabrielavv&background=fff0f6&border=ffc8dd&stroke=ffc8dd&ring=ff85a1&fire=c9184a&currStreakNum=c9184a&sideNums=6b2737&currStreakLabel=ff85a1&sideLabels=ff85a1&dates=6b2737&border_radius=15"/>
 
 </div>
 
@@ -92,7 +92,7 @@ Me encanta combinar **creatividad con lógica** para desarrollar sistemas modern
 
 <br/>
 
-[![Ver mis repos](https://img.shields.io/badge/🌸_Explorar_mis_proyectos-ffc8dd?style=for-the-badge)](https://github.com/TU_USUARIO?tab=repositories)
+[![Ver mis repos](https://img.shields.io/badge/🌸_Explorar_mis_proyectos-ffc8dd?style=for-the-badge)](https://github.com/AshleyGabrielavv?tab=repositories)
 
 </div>
 
@@ -120,6 +120,6 @@ Me encanta combinar **creatividad con lógica** para desarrollar sistemas modern
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=TU_USUARIO&color=ff85a1&style=for-the-badge&label=Visitantes+💗)
+![Visitor Count](https://komarev.com/ghpvc/?username=AshleyGabrielavv&color=ff85a1&style=for-the-badge&label=Visitantes+💗)
 
 </div>
