@@ -1,16 +1,7 @@
 <div align="center">
 
-<!-- ╔════════════════════════════════════════╗ -->
-<!-- ║  🎀 COLOCA TU IMAGEN AQUÍ 🎀          ║ -->
-<!-- ║  Sube tu foto al repo y cambia el     ║ -->
-<!-- ║  nombre del archivo abajo             ║ -->
-<!-- ╚════════════════════════════════════════╝ -->
-
-<img src="fot_asly.png" width="200px" style="border-radius: 50%; border: 4px solid #ffc8dd;"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,ffc8dd,ffafcc,ffd6ff&height=100&section=header&text=✦%20Ashley%20Velasques%20✦&fontColor=c9184a&fontSize=36&fontAlignY=65&animation=fadeIn&fontFamily=Pacifico" width="100%"/>
+<!-- 🎀 IMAGEN DE BANNER COMPLETO — cubre todo el ancho 🎀 -->
+<img src="1773866083803_image.png" width="100%" alt="Ashley Velasques Banner"/>
 
 <br/>
 
